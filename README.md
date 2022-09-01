@@ -1,5 +1,5 @@
 # CopypastaTyper
-
+![](https://media.discordapp.net/attachments/646955937000849410/1014835143069941780/unknown.png)
 ---
 This program will retype an inputted block of text as if you typed it with your keyboard at the push of a button! 
 The program will automatically segment messages to an exact character maximum so long messages will automatically be split into smaller, sendable messages.
